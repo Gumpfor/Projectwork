@@ -1,0 +1,7 @@
+nx  = 2
+nz  = 1
+box = 5
+ha  = 1.
+hb  = 2.
+cnftime = 1
+simtime = 0.5
